@@ -1,0 +1,104 @@
+[33mcommit 3686442df05f6329d91ba7202962e586886fc9df[m[33m ([m[1;36mHEAD -> [m[1;32mpullRequest[m[33m)[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 11:22:13 2020 +0300
+
+     added a new file
+
+[33mcommit c7caa49e69424113c8b2b94762b491d1382f8e0c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 6530674 33231a1
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 10:23:45 2020 +0300
+
+    resolving
+
+[33mcommit 33231a1190a9422bc567956fb681aafb436ecc6e[m[33m ([m[1;31morigin/branchConflict[m[33m, [m[1;32mbranchConflict[m[33m)[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 10:17:13 2020 +0300
+
+    rtrtry767
+
+[33mcommit 6530674359e99569316a0093fcb5fac524676b32[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 10:07:17 2020 +0300
+
+    conflict2
+
+[33mcommit b8c4eb0a58380ad96d2d8f5788542112a2a7c7e4[m
+Merge: 1d1f066 a06501b
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 10:04:12 2020 +0300
+
+    Merge branch 'branchConflict'
+
+[33mcommit a06501b8aa0ac9f96dd0785b0001daf0227d6db6[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 09:57:49 2020 +0300
+
+    new4
+
+[33mcommit 1d1f066ae27375764a4432e03e7d175b9f60e077[m
+Merge: 36e951d 9bf7ef6
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 09:53:14 2020 +0300
+
+    Merge branch 'branchConflict'
+
+[33mcommit 36e951db87dee86b58a5edf5fb8bdf7d8348420e[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 09:51:58 2020 +0300
+
+    conflict
+
+[33mcommit 9bf7ef6c90602ccb20d4f5458059af31f6cc7d7f[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 09:47:00 2020 +0300
+
+    new!
+
+[33mcommit 76af8d5f3569d0a010ec8cc22b1ca481fc5f3fcb[m
+Author: gal <galco134@gmail.com>
+Date:   Fri May 1 09:37:00 2020 +0300
+
+    Changed file test branch
+
+[33mcommit 113fe064ab2d73e4b4ee222ba25aee8dca2b699b[m[33m ([m[1;32msecondbranch[m[33m)[m
+Author: gal <galco134@gmail.com>
+Date:   Fri Apr 24 11:32:32 2020 +0300
+
+    Creation a new branch
+
+[33mcommit da54586261982cf489db9f286bf8a78db28809da[m
+Author: gal cohen <64099280+galco134@users.noreply.github.com>
+Date:   Fri Apr 24 11:08:52 2020 +0300
+
+    Create test1
+
+[33mcommit 9048a1e4faa4ff9c3bf69dd965117424ccf3b452[m
+Author: gal cohen <64099280+galco134@users.noreply.github.com>
+Date:   Fri Apr 24 11:02:15 2020 +0300
+
+    Create pythonpackage.yml
+
+[33mcommit f043a761bfd83f5a29d414e43d3022790f162ba8[m
+Author: gal <galco134@gmail.com>
+Date:   Wed Apr 22 19:43:29 2020 +0300
+
+    Home workkk
+
+[33mcommit 63ba15a41af97a02f56feacbaac11a81aafdcdc2[m
+Author: gal <galco134@gmail.com>
+Date:   Wed Apr 22 18:26:33 2020 +0300
+
+    Modified README.md
+
+[33mcommit ebc9fcd50158fc9305203a7c288d62e06ba4739e[m
+Author: galco134 <64099280+galco134@users.noreply.github.com>
+Date:   Tue Apr 21 23:28:27 2020 +0300
+
+    Update README.md
+
+[33mcommit 9acc8516fbec93d18c8d8bf8f1b1f525bb4d9d50[m
+Author: galco134 <64099280+galco134@users.noreply.github.com>
+Date:   Tue Apr 21 23:04:13 2020 +0300
+
+    Initial commit
